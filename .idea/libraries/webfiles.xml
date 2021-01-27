@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webfiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/venv/Lib/site-packages/tensorboard/webfiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
